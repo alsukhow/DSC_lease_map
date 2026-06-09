@@ -55,7 +55,7 @@ const ZONES = [
   {
     id: "Z26102",
     name: "ISD sublease - Queens Elizabeth",
-    sqm: 730,
+    sqm: 525,
     rent: { type: "fixed", base: 1750000 },
     tenantRevenue: 0,
     status: "under_isd_subleased",
@@ -65,7 +65,7 @@ const ZONES = [
   {
     id: "Z33997",
     name: "ISD sublease - Physio Clinic",
-    sqm: 300,
+    sqm: 158,
     rent: { type: "fixed", base: 500000 },
     tenantRevenue: 0,
     status: "under_isd_subleased",
